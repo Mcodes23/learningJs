@@ -80,7 +80,7 @@
  * 
  * The common use case for ?? is to provide a default value.
  * 
- * * Comparison wit ||
+ * * Comparison with ||
  * || returns the first truthy value.
  * ?? returns the first defined value.
  * 
