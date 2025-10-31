@@ -37,11 +37,20 @@ while (flag) {
     alert("Please enter 'yes' or 'no'");
   }
 }
-
+/**
+ * Checks whether a number is even.
+ * @param {number} num
+ * @returns {boolean}
+ */
 function isEven(num) {
   return num % 2 === 0;
 }
 
+/**
+ * Checks whether a number is odd.
+ * @param {number} num
+ * @returns {boolean}
+ */
 function isOdd(num) {
   return num % 2 !== 0;
 }
